@@ -1,0 +1,9 @@
+{
+  "name": "I.R.I.S ATLAS AI",
+  "short_name": "IRIS ATLAS",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#05080f",
+  "theme_color": "#00d4ff"
+}
